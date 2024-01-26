@@ -9,7 +9,7 @@ An application that can be used to write down my thoughts and save notes for tas
 
 ## Usage
 You will need to run this application in your Node terminal.
-* Heroku link: 
+* Heroku link: https://note-taker-ch-2fccc6f24074.herokuapp.com/
 
 ## Screenshot
 ![Alt text](image.png)
